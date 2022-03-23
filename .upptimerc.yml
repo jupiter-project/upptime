@@ -15,8 +15,6 @@ sites:
     url: https://gravity.jup.io/ipfs/QmSxJqjPsnHUY9XNBYWVTWHiQuXUvapZtDEL2tBkBSSNsE?filename=Layer%201-AnimatedJup%20(1).mp4
   - name: Project IPFS API
     url: $IPFS_API
-  - name: Metis API
-    url: $METIS_API
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
