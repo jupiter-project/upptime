@@ -12,7 +12,7 @@ sites:
   - name: Galileo Blockchain Stats
     url: https://galileo.jup.io
   - name: Project IPFS Node
-    url: https://gravity.jup.io
+    url: https://gravity.jup.io/ipfs/QmSxJqjPsnHUY9XNBYWVTWHiQuXUvapZtDEL2tBkBSSNsE?filename=Layer%201-AnimatedJup%20(1).mp4
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
