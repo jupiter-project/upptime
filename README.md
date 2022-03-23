@@ -1,4 +1,4 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+# [![Jupiter](https://nodes.jup.io/img/brand/logo_letters.png)](https://jup.io)
 
 <!--start: description-->
 
