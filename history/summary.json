@@ -65,9 +65,9 @@
     "slug": "galileo-blockchain-stats",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 286,
     "timeDay": 523,
@@ -75,7 +75,7 @@
     "timeMonth": 262,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 5
     }
   },
   {
@@ -95,7 +95,7 @@
     "timeMonth": 149,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2022-06-14": 63,
+      "2022-06-14": 68,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
@@ -192,7 +192,7 @@
     "timeMonth": 179,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2022-06-14": 63,
+      "2022-06-14": 68,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
