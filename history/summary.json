@@ -4,9 +4,9 @@
     "url": "https://jup.io",
     "icon": "https://favicons.githubusercontent.com/jup.io",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.55%",
     "uptimeYear": "99.10%",
@@ -16,6 +16,7 @@
     "timeMonth": 362,
     "timeYear": 374,
     "dailyMinutesDown": {
+      "2022-09-06": 0,
       "2022-08-22": 1063,
       "2022-08-21": 884,
       "2022-06-30": 32,
@@ -102,7 +103,7 @@
     "timeMonth": 161,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2022-09-06": 75,
+      "2022-09-06": 566,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
@@ -283,7 +284,7 @@
     "timeMonth": 151,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2022-09-06": 75,
+      "2022-09-06": 566,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
