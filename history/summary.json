@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.52%",
-    "time": 286,
-    "timeDay": 361,
-    "timeWeek": 178,
-    "timeMonth": 220,
-    "timeYear": 246,
+    "time": 287,
+    "timeDay": 422,
+    "timeWeek": 209,
+    "timeMonth": 227,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2023-04-29": 273,
       "2023-03-27": 19,
@@ -33,15 +33,15 @@
     "url": "https://blog.jup.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "92.92%",
-    "uptimeDay": "91.45%",
+    "status": "down",
+    "uptime": "92.93%",
+    "uptimeDay": "91.44%",
     "uptimeWeek": "89.67%",
     "uptimeMonth": "93.94%",
-    "uptimeYear": "91.99%",
+    "uptimeYear": "92.00%",
     "time": 656,
-    "timeDay": 497,
-    "timeWeek": 484,
+    "timeDay": 495,
+    "timeWeek": 486,
     "timeMonth": 480,
     "timeYear": 630,
     "dailyMinutesDown": {
@@ -95,7 +95,7 @@
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 885,
-      "2022-06-30": 83
+      "2022-06-30": 51
     }
   },
   {
@@ -110,9 +110,9 @@
     "uptimeMonth": "92.95%",
     "uptimeYear": "99.01%",
     "time": 288,
-    "timeDay": 289,
-    "timeWeek": 217,
-    "timeMonth": 236,
+    "timeDay": 312,
+    "timeWeek": 247,
+    "timeMonth": 231,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2023-04-30": 101,
@@ -136,9 +136,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 322,
-    "timeDay": 309,
-    "timeWeek": 259,
-    "timeMonth": 346,
+    "timeDay": 276,
+    "timeWeek": 276,
+    "timeMonth": 341,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2022-06-14": 138
@@ -161,7 +161,7 @@
     "timeMonth": 0,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-05-10": 1329,
+      "2023-05-10": 1407,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
@@ -545,7 +545,7 @@
     "timeMonth": 0,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-05-10": 1329,
+      "2023-05-10": 1407,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
