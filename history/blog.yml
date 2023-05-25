@@ -1,7 +1,7 @@
 url: https://blog.jup.io
-status: up
-code: 200
-responseTime: 712
-lastUpdated: 2023-05-25T21:15:23.819Z
+status: down
+code: 429
+responseTime: 178
+lastUpdated: 2023-05-25T21:27:37.087Z
 startTime: Wed Mar 23 2022 21:38:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
