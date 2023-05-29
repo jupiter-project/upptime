@@ -32,17 +32,17 @@
     "url": "https://blog.jup.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "99.46%",
+    "status": "down",
+    "uptime": "99.47%",
     "uptimeDay": "57.01%",
     "uptimeWeek": "75.09%",
-    "uptimeMonth": "92.39%",
+    "uptimeMonth": "92.44%",
     "uptimeYear": "99.37%",
     "time": 609,
-    "timeDay": 480,
-    "timeWeek": 508,
+    "timeDay": 469,
+    "timeWeek": 506,
     "timeMonth": 497,
-    "timeYear": 584,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2023-05-29": 543,
       "2023-05-28": 412,
@@ -60,7 +60,7 @@
       "2023-05-13": 64,
       "2023-05-12": 89,
       "2023-05-11": 67,
-      "2023-05-10": 124
+      "2023-05-10": 102
     }
   },
   {
@@ -72,7 +72,7 @@
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.94%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.01%",
     "time": 286,
     "timeDay": 373,
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2023-05-29": 1075,
+      "2023-05-29": 1154,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
@@ -510,7 +510,7 @@
     "timeMonth": 0,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2023-05-29": 1075,
+      "2023-05-29": 1154,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
