@@ -13,7 +13,7 @@
     "time": 283,
     "timeDay": 66,
     "timeWeek": 218,
-    "timeMonth": 211,
+    "timeMonth": 213,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2023-04-29": 273,
@@ -32,19 +32,20 @@
     "url": "https://blog.jup.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "78.90%",
-    "uptimeWeek": "70.91%",
-    "uptimeMonth": "92.16%",
+    "uptimeDay": "79.74%",
+    "uptimeWeek": "71.03%",
+    "uptimeMonth": "92.19%",
     "uptimeYear": "99.35%",
     "time": 605,
-    "timeDay": 490,
-    "timeWeek": 506,
+    "timeDay": 484,
+    "timeWeek": 505,
     "timeMonth": 497,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2023-05-30": 303,
+      "2023-05-31": 0,
+      "2023-05-30": 291,
       "2023-05-29": 661,
       "2023-05-28": 412,
       "2023-05-27": 348,
@@ -70,12 +71,12 @@
     "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.01%",
     "time": 286,
     "timeDay": 122,
     "timeWeek": 277,
-    "timeMonth": 234,
+    "timeMonth": 239,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2023-04-30": 101,
@@ -101,7 +102,7 @@
     "time": 319,
     "timeDay": 107,
     "timeWeek": 297,
-    "timeMonth": 256,
+    "timeMonth": 258,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2022-06-14": 138
@@ -116,7 +117,7 @@
     "uptime": "1.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 189,
     "timeDay": 0,
@@ -124,7 +125,8 @@
     "timeMonth": 0,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2023-05-30": 1428,
+      "2023-05-31": 0,
+      "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
@@ -487,8 +489,7 @@
       "2022-06-04": 1440,
       "2022-06-03": 1440,
       "2022-06-02": 1440,
-      "2022-06-01": 1440,
-      "2022-05-31": 1440
+      "2022-06-01": 1440
     }
   },
   {
@@ -500,7 +501,7 @@
     "uptime": "1.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 174,
     "timeDay": 0,
@@ -508,7 +509,8 @@
     "timeMonth": 0,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2023-05-30": 1428,
+      "2023-05-31": 0,
+      "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
@@ -871,8 +873,7 @@
       "2022-06-04": 1440,
       "2022-06-03": 1440,
       "2022-06-02": 1440,
-      "2022-06-01": 1440,
-      "2022-05-31": 1440
+      "2022-06-01": 1440
     }
   }
 ]
