@@ -32,17 +32,17 @@
     "url": "https://blog.jup.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "74.01%",
-    "uptimeWeek": "80.99%",
-    "uptimeMonth": "91.99%",
-    "uptimeYear": "99.33%",
-    "time": 595,
-    "timeDay": 584,
-    "timeWeek": 540,
+    "uptimeDay": "74.00%",
+    "uptimeWeek": "81.12%",
+    "uptimeMonth": "92.08%",
+    "uptimeYear": "99.34%",
+    "time": 594,
+    "timeDay": 571,
+    "timeWeek": 541,
     "timeMonth": 518,
-    "timeYear": 573,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2023-06-07": 173,
       "2023-06-06": 246,
@@ -55,7 +55,7 @@
       "2023-05-30": 291,
       "2023-05-29": 661,
       "2023-05-28": 412,
-      "2023-05-27": 111
+      "2023-05-27": 73
     }
   },
   {
@@ -121,7 +121,7 @@
     "timeMonth": 0,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2023-06-07": 384,
+      "2023-06-07": 409,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
@@ -505,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2023-06-07": 384,
+      "2023-06-07": 409,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
