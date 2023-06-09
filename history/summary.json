@@ -32,17 +32,17 @@
     "url": "https://blog.jup.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "75.68%",
-    "uptimeWeek": "80.95%",
-    "uptimeMonth": "92.27%",
-    "uptimeYear": "99.36%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "76.78%",
+    "uptimeWeek": "81.06%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "99.37%",
     "time": 590,
-    "timeDay": 506,
+    "timeDay": 500,
     "timeWeek": 529,
     "timeMonth": 520,
-    "timeYear": 569,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2023-06-09": 252,
       "2023-06-08": 268,
@@ -55,7 +55,7 @@
       "2023-06-01": 372,
       "2023-05-31": 250,
       "2023-05-30": 291,
-      "2023-05-29": 343
+      "2023-05-29": 289
     }
   },
   {
@@ -121,7 +121,7 @@
     "timeMonth": 0,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2023-06-09": 840,
+      "2023-06-09": 931,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
@@ -494,7 +494,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-ipfs-api",
     "status": "down",
-    "uptime": "1.26%",
+    "uptime": "1.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -505,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2023-06-09": 840,
+      "2023-06-09": 931,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
