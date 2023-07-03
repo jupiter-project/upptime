@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
-    "time": 275,
-    "timeDay": 71,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 232,
+    "time": 274,
+    "timeDay": 145,
+    "timeWeek": 199,
+    "timeMonth": 200,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2023-04-29": 273,
       "2023-03-27": 19,
@@ -37,8 +37,8 @@
     "uptimeMonth": "92.26%",
     "uptimeYear": "99.35%",
     "time": 577,
-    "timeDay": 522,
-    "timeWeek": 701,
+    "timeDay": 526,
+    "timeWeek": 732,
     "timeMonth": 529,
     "timeYear": 558,
     "dailyMinutesDown": {
@@ -62,16 +62,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nodes.jup.io.ico",
     "slug": "web-wallet",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 283,
-    "timeDay": 222,
-    "timeWeek": 259,
-    "timeMonth": 243,
-    "timeYear": 273,
+    "timeDay": 125,
+    "timeWeek": 246,
+    "timeMonth": 238,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2023-04-30": 101,
       "2023-04-29": 1440,
@@ -94,8 +94,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 224,
-    "timeWeek": 253,
+    "timeDay": 107,
+    "timeWeek": 256,
     "timeMonth": 258,
     "timeYear": 323,
     "dailyMinutesDown": {}
@@ -106,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravity.jup.io.ico",
     "slug": "project-ipfs-gateway",
     "status": "down",
-    "uptime": "1.20%",
+    "uptime": "1.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -117,7 +117,8 @@
     "timeMonth": 0,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-07-02": 65,
+      "2023-07-03": 64,
+      "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -480,8 +481,7 @@
       "2022-07-07": 1440,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
-      "2022-07-04": 1440,
-      "2022-07-03": 1440
+      "2022-07-04": 1440
     }
   },
   {
@@ -501,7 +501,8 @@
     "timeMonth": 0,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2023-07-02": 65,
+      "2023-07-03": 64,
+      "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
@@ -864,8 +865,7 @@
       "2022-07-07": 1440,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
-      "2022-07-04": 1440,
-      "2022-07-03": 1440
+      "2022-07-04": 1440
     }
   }
 ]
