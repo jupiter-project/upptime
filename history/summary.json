@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 230,
-    "timeDay": 189,
-    "timeWeek": 220,
+    "timeDay": 71,
+    "timeWeek": 184,
     "timeMonth": 236,
     "timeYear": 218,
     "dailyMinutesDown": {
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "97.84%",
+    "uptime": "97.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.19%",
-    "uptimeYear": "96.80%",
+    "uptimeMonth": "65.91%",
+    "uptimeYear": "96.53%",
     "time": 583,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 675,
+    "timeMonth": 674,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2023-09-17": 45,
+      "2023-09-18": 43,
+      "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -72,15 +73,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nodes.jup.io.ico",
     "slug": "web-wallet",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
-    "time": 276,
-    "timeDay": 323,
-    "timeWeek": 263,
-    "timeMonth": 280,
+    "time": 275,
+    "timeDay": 129,
+    "timeWeek": 227,
+    "timeMonth": 276,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2023-04-30": 101,
@@ -104,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 1224,
-    "timeWeek": 414,
-    "timeMonth": 326,
+    "timeDay": 118,
+    "timeWeek": 366,
+    "timeMonth": 325,
     "timeYear": 324,
     "dailyMinutesDown": {}
   },
@@ -125,9 +126,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 143,
+    "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-09-17": 45,
+      "2023-09-18": 43,
+      "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -490,8 +492,7 @@
       "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
-      "2022-09-19": 1440,
-      "2022-09-18": 1440
+      "2022-09-19": 1440
     }
   },
   {
@@ -511,7 +512,8 @@
     "timeMonth": 0,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2023-09-17": 45,
+      "2023-09-18": 43,
+      "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -874,8 +876,7 @@
       "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
-      "2022-09-19": 1440,
-      "2022-09-18": 1440
+      "2022-09-19": 1440
     }
   }
 ]
