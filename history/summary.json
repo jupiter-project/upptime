@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 230,
-    "timeDay": 194,
-    "timeWeek": 171,
-    "timeMonth": 229,
-    "timeYear": 218,
+    "time": 231,
+    "timeDay": 375,
+    "timeWeek": 203,
+    "timeMonth": 234,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2023-04-29": 273,
       "2023-03-27": 19,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "97.13%",
+    "uptime": "96.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.04%",
-    "uptimeYear": "95.70%",
+    "uptimeMonth": "52.76%",
+    "uptimeYear": "95.43%",
     "time": 582,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 658,
+    "timeMonth": 652,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2023-09-21": 42,
+      "2023-09-22": 42,
+      "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
@@ -81,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
-    "time": 275,
-    "timeDay": 339,
-    "timeWeek": 230,
-    "timeMonth": 281,
-    "timeYear": 264,
+    "time": 276,
+    "timeDay": 263,
+    "timeWeek": 254,
+    "timeMonth": 286,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2023-04-30": 101,
       "2023-04-29": 1440,
@@ -107,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 430,
-    "timeWeek": 390,
-    "timeMonth": 342,
-    "timeYear": 324,
+    "time": 313,
+    "timeDay": 239,
+    "timeWeek": 412,
+    "timeMonth": 345,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   },
   {
@@ -129,9 +130,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 141,
+    "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-09-21": 42,
+      "2023-09-22": 43,
+      "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
@@ -494,8 +496,7 @@
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
-      "2022-09-23": 1440,
-      "2022-09-22": 1440
+      "2022-09-23": 1440
     }
   },
   {
@@ -513,9 +514,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 184,
+    "timeYear": 186,
     "dailyMinutesDown": {
-      "2023-09-21": 42,
+      "2023-09-22": 43,
+      "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
@@ -878,8 +880,7 @@
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
-      "2022-09-23": 1440,
-      "2022-09-22": 1440
+      "2022-09-23": 1440
     }
   }
 ]
