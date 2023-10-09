@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "94.03%",
+    "uptime": "93.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "90.77%",
+    "uptimeYear": "90.60%",
     "time": 578,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2023-10-09": 43,
+      "2023-10-09": 929,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
@@ -119,9 +119,9 @@
     "url": "https://galileo.jup.io",
     "icon": "https://icons.duckduckgo.com/ip3/galileo.jup.io.ico",
     "slug": "galileo-blockchain-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +130,9 @@
     "timeWeek": 240,
     "timeMonth": 314,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-09": 0
+    }
   },
   {
     "name": "Project IPFS Gateway",
@@ -149,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2023-10-09": 43,
+      "2023-10-09": 929,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
@@ -533,7 +535,7 @@
     "timeMonth": 0,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2023-10-09": 43,
+      "2023-10-09": 929,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
