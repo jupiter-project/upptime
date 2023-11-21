@@ -11,10 +11,10 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.93%",
     "time": 224,
-    "timeDay": 230,
-    "timeWeek": 158,
-    "timeMonth": 202,
-    "timeYear": 217,
+    "timeDay": 167,
+    "timeWeek": 176,
+    "timeMonth": 199,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2023-11-07": 20,
       "2023-10-27": 20,
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "87.51%",
+    "uptime": "87.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.26%",
+    "uptimeYear": "78.99%",
     "time": 569,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2023-11-20": 47,
+      "2023-11-21": 47,
+      "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -138,24 +139,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/nodes.jup.io.ico",
     "slug": "web-wallet",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 267,
-    "timeDay": 109,
-    "timeWeek": 183,
-    "timeMonth": 231,
-    "timeYear": 260,
+    "timeDay": 264,
+    "timeWeek": 190,
+    "timeMonth": 232,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2023-04-30": 101,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 107,
       "2022-11-23": 1219,
-      "2022-11-22": 810,
-      "2022-11-21": 83
+      "2022-11-22": 810
     }
   },
   {
@@ -164,18 +164,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/galileo.jup.io.ico",
     "slug": "galileo-blockchain-stats",
     "status": "down",
-    "uptime": "93.16%",
+    "uptime": "93.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.66%",
+    "uptimeYear": "88.39%",
     "time": 318,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-11-20": 47,
+      "2023-11-21": 47,
+      "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -237,7 +238,8 @@
     "timeMonth": 0,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-11-20": 47,
+      "2023-11-21": 47,
+      "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -600,8 +602,7 @@
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
-      "2022-11-22": 1440,
-      "2022-11-21": 1440
+      "2022-11-22": 1440
     }
   },
   {
@@ -619,9 +620,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 146,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-11-20": 47,
+      "2023-11-21": 47,
+      "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -984,8 +986,7 @@
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
-      "2022-11-22": 1440,
-      "2022-11-21": 1440
+      "2022-11-22": 1440
     }
   }
 ]
