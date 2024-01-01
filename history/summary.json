@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 217,
-    "timeDay": 216,
-    "timeWeek": 280,
-    "timeMonth": 229,
-    "timeYear": 220,
+    "timeDay": 73,
+    "timeWeek": 239,
+    "timeMonth": 225,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2023-11-07": 20,
       "2023-10-27": 20,
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "81.97%",
+    "uptime": "81.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.03%",
+    "uptimeYear": "67.76%",
     "time": 563,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2023-12-31": 50,
+      "2024-01-01": 51,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -181,13 +182,13 @@
     "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.27%",
+    "uptimeWeek": "93.98%",
     "uptimeMonth": "94.58%",
     "uptimeYear": "98.96%",
     "time": 257,
-    "timeDay": 215,
-    "timeWeek": 203,
-    "timeMonth": 197,
+    "timeDay": 273,
+    "timeWeek": 202,
+    "timeMonth": 198,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2023-12-29": 71,
@@ -212,18 +213,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/galileo.jup.io.ico",
     "slug": "galileo-blockchain-stats",
     "status": "down",
-    "uptime": "87.25%",
+    "uptime": "87.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.43%",
+    "uptimeYear": "77.15%",
     "time": 324,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2023-12-31": 50,
+      "2024-01-01": 51,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -326,7 +328,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-31": 50,
+      "2024-01-01": 52,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -689,8 +692,7 @@
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
-      "2023-01-02": 1440,
-      "2023-01-01": 1440
+      "2023-01-02": 1440
     }
   },
   {
@@ -710,7 +712,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-31": 50,
+      "2024-01-01": 52,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1073,8 +1076,7 @@
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
-      "2023-01-02": 1440,
-      "2023-01-01": 1440
+      "2023-01-02": 1440
     }
   }
 ]
