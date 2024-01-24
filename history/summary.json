@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 214,
-    "timeDay": 212,
-    "timeWeek": 214,
-    "timeMonth": 208,
+    "timeDay": 161,
+    "timeWeek": 213,
+    "timeMonth": 206,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2023-11-07": 20,
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "79.16%",
+    "uptime": "79.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.73%",
+    "uptimeYear": "61.46%",
     "time": 560,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2024-01-23": 49,
+      "2024-01-24": 48,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -205,13 +206,13 @@
     "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.95%",
-    "uptimeMonth": "91.49%",
+    "uptimeMonth": "91.90%",
     "uptimeYear": "98.41%",
     "time": 250,
-    "timeDay": 383,
-    "timeWeek": 225,
-    "timeMonth": 202,
-    "timeYear": 246,
+    "timeDay": 128,
+    "timeWeek": 224,
+    "timeMonth": 204,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2024-01-21": 54,
       "2024-01-20": 513,
@@ -242,18 +243,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/galileo.jup.io.ico",
     "slug": "galileo-blockchain-stats",
     "status": "down",
-    "uptime": "84.26%",
+    "uptime": "84.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.13%",
+    "uptimeYear": "70.85%",
     "time": 323,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-01-23": 49,
+      "2024-01-24": 48,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -379,7 +381,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-23": 49,
+      "2024-01-24": 49,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -742,8 +745,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440
+      "2023-01-25": 1440
     }
   },
   {
@@ -763,7 +765,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-23": 49,
+      "2024-01-24": 49,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -1126,8 +1129,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440
+      "2023-01-25": 1440
     }
   }
 ]
