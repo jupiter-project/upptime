@@ -1,7 +1,7 @@
 url: https://nodes.jup.io
-status: down
-code: 502
-responseTime: 170
-lastUpdated: 2024-02-02T00:00:03.953Z
+status: up
+code: 200
+responseTime: 121
+lastUpdated: 2024-02-02T01:18:50.103Z
 startTime: 2022-03-23T21:38:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
