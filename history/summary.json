@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 214,
-    "timeDay": 160,
-    "timeWeek": 227,
-    "timeMonth": 203,
-    "timeYear": 213,
+    "timeDay": 53,
+    "timeWeek": 181,
+    "timeMonth": 197,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2023-11-07": 20,
       "2023-10-27": 20,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "66.96%",
+    "uptime": "66.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "28.31%",
+    "uptimeYear": "28.03%",
     "time": 533,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 535,
+    "timeYear": 537,
     "dailyMinutesDown": {
-      "2024-05-24": 48,
+      "2024-05-25": 46,
+      "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -327,9 +328,9 @@
     "uptimeMonth": "96.54%",
     "uptimeYear": "97.11%",
     "time": 369,
-    "timeDay": 151,
-    "timeWeek": 206,
-    "timeMonth": 249,
+    "timeDay": 122,
+    "timeWeek": 177,
+    "timeMonth": 241,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2024-04-29": 328,
@@ -383,18 +384,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/galileo.jup.io.ico",
     "slug": "galileo-blockchain-stats",
     "status": "down",
-    "uptime": "71.28%",
+    "uptime": "71.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.70%",
-    "time": 340,
+    "uptimeYear": "37.43%",
+    "time": 339,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2024-05-24": 48,
+      "2024-05-25": 46,
+      "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -642,7 +644,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-24": 48,
+      "2024-05-25": 46,
+      "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -1005,8 +1008,7 @@
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
-      "2023-05-27": 1440,
-      "2023-05-26": 1440
+      "2023-05-27": 1440
     }
   },
   {
@@ -1026,7 +1028,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-24": 48,
+      "2024-05-25": 46,
+      "2024-05-24": 1440,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -1389,8 +1392,7 @@
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
-      "2023-05-27": 1440,
-      "2023-05-26": 1440
+      "2023-05-27": 1440
     }
   }
 ]
