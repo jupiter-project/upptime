@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 156,
-    "timeWeek": 189,
-    "timeMonth": 196,
+    "timeDay": 140,
+    "timeWeek": 183,
+    "timeMonth": 192,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2023-11-07": 20,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "65.48%",
+    "uptime": "65.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "23.67%",
+    "uptimeYear": "23.43%",
     "time": 551,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 575,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2024-06-11": 50,
+      "2024-06-12": 50,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -321,8 +322,7 @@
       "2023-07-11": 45,
       "2023-06-16": 35,
       "2023-06-15": 517,
-      "2023-06-14": 433,
-      "2023-06-13": 326
+      "2023-06-14": 433
     }
   },
   {
@@ -337,9 +337,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.11%",
     "time": 367,
-    "timeDay": 289,
-    "timeWeek": 248,
-    "timeMonth": 226,
+    "timeDay": 320,
+    "timeWeek": 254,
+    "timeMonth": 225,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2024-04-29": 328,
@@ -393,18 +393,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/galileo.jup.io.ico",
     "slug": "galileo-blockchain-stats",
     "status": "down",
-    "uptime": "69.70%",
+    "uptime": "69.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.77%",
-    "time": 341,
+    "uptimeYear": "32.50%",
+    "time": 342,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 285,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2024-06-11": 51,
+      "2024-06-12": 51,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -670,7 +671,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-11": 51,
+      "2024-06-12": 51,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -1033,8 +1035,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   },
   {
@@ -1043,7 +1044,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "project-ipfs-api",
     "status": "down",
-    "uptime": "0.69%",
+    "uptime": "0.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1054,7 +1055,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-11": 51,
+      "2024-06-12": 51,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -1417,8 +1419,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   }
 ]
