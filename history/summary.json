@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 217,
-    "timeDay": 196,
-    "timeWeek": 198,
+    "timeDay": 297,
+    "timeWeek": 208,
     "timeMonth": 257,
     "timeYear": 215,
     "dailyMinutesDown": {
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "59.07%",
+    "uptime": "59.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 623,
+    "time": 620,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 358,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 1295,
+      "2024-09-07": 55,
+      "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -401,8 +402,7 @@
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
-      "2023-09-09": 1440,
-      "2023-09-08": 1440
+      "2023-09-09": 1440
     }
   },
   {
@@ -412,17 +412,17 @@
     "slug": "web-wallet",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "76.47%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "98.99%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "97.03%",
     "time": 446,
-    "timeDay": 8048,
-    "timeWeek": 4137,
-    "timeMonth": 1521,
+    "timeDay": 8036,
+    "timeWeek": 4130,
+    "timeMonth": 1517,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2024-09-06": 194,
+      "2024-09-06": 182,
       "2024-09-05": 149,
       "2024-08-22": 101,
       "2024-04-29": 328,
@@ -476,18 +476,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/galileo.jup.io.ico",
     "slug": "galileo-blockchain-stats",
     "status": "down",
-    "uptime": "62.88%",
+    "uptime": "62.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.70%",
+    "uptimeYear": "8.66%",
     "time": 280,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 309,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2024-09-06": 1295,
+      "2024-09-07": 55,
+      "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -840,7 +841,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 1295,
+      "2024-09-07": 55,
+      "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -1203,8 +1205,7 @@
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
-      "2023-09-09": 1440,
-      "2023-09-08": 1440
+      "2023-09-09": 1440
     }
   },
   {
@@ -1224,7 +1225,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 1295,
+      "2024-09-07": 55,
+      "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -1587,8 +1589,7 @@
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
-      "2023-09-09": 1440,
-      "2023-09-08": 1440
+      "2023-09-09": 1440
     }
   }
 ]
