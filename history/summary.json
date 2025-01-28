@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 206,
-    "timeWeek": 281,
-    "timeMonth": 296,
+    "timeDay": 133,
+    "timeWeek": 261,
+    "timeMonth": 291,
     "timeYear": 256,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.jup.io.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "51.00%",
+    "uptime": "50.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-27": 59,
+      "2025-01-28": 58,
+      "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -397,8 +398,7 @@
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
-      "2024-01-30": 1440,
-      "2024-01-29": 1440
+      "2024-01-30": 1440
     }
   },
   {
@@ -411,10 +411,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.19%",
+    "uptimeYear": "97.30%",
     "time": 457,
-    "timeDay": 267,
-    "timeWeek": 308,
+    "timeDay": 306,
+    "timeWeek": 274,
     "timeMonth": 280,
     "timeYear": 557,
     "dailyMinutesDown": {
@@ -461,18 +461,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/galileo.jup.io.ico",
     "slug": "galileo-blockchain-stats",
     "status": "down",
-    "uptime": "54.29%",
+    "uptime": "54.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 318,
+    "time": 328,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-27": 59,
+      "2025-01-28": 58,
+      "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -835,8 +836,7 @@
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
-      "2024-01-30": 1440,
-      "2024-01-29": 1440
+      "2024-01-30": 1440
     }
   },
   {
@@ -845,7 +845,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravity.jup.io.ico",
     "slug": "project-ipfs-gateway",
     "status": "down",
-    "uptime": "0.54%",
+    "uptime": "0.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -856,7 +856,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-27": 59,
+      "2025-01-28": 58,
+      "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -1219,8 +1220,7 @@
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
-      "2024-01-30": 1440,
-      "2024-01-29": 1440
+      "2024-01-30": 1440
     }
   },
   {
@@ -1240,7 +1240,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-27": 59,
+      "2025-01-28": 58,
+      "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -1603,8 +1604,7 @@
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
-      "2024-01-30": 1440,
-      "2024-01-29": 1440
+      "2024-01-30": 1440
     }
   }
 ]
